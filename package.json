@@ -1,0 +1,22 @@
+{
+  "name": "guildbot",
+  "version": "1.0.0",
+  "description": "A discord moderation bot.",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guildbot-js/guildbot.git"
+  },
+  "author": "guildbot team",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/guildbot-js/guildbot/issues"
+  },
+  "homepage": "https://github.com/guildbot-js/guildbot#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
